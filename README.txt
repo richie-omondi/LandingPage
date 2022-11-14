@@ -1,21 +1,3 @@
-Template Name: Landing
-Template Author: Untree.co
-Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+This repo contains code for Mars Analytics Landing Pgae. 
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
-
-
-CREDITS
-
-* jQuery
-* Popper
-* Bootstrap
-* Fancybox
-* Unsplash
-* Owl Carousel
-* AOS
-* animateNumber
-* Waypoints
-* Google Fonts
+Mars Analytics is a platform where businesses can access customer and market data pertaining to their business
